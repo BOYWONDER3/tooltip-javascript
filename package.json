@@ -1,0 +1,23 @@
+{
+  "name": "tooltip-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BOYWONDER3/tooltip-javascript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BOYWONDER3/tooltip-javascript/issues"
+  },
+  "homepage": "https://github.com/BOYWONDER3/tooltip-javascript#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  }
+}
